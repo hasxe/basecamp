@@ -1,6 +1,6 @@
 # Python 06: Functions, Dictionaries and Sets.
 
-**Introduction**: This document presents learning steps for Python 06. In Python 06, you will learn dictionaries to collect keys and coresponding values. Moreover, you will learn how anonymous functions can be helpful. 
+**Introduction**: This document presents learning steps for Python 06. In Python 06, you will learn dictionaries to collect keys and corresponding values. Moreover, you will learn how anonymous functions can be helpful. 
 
 
 **Note:** Exercises of this learning path should be done using:
@@ -182,3 +182,4 @@ print(r(10))
 r = lambda x, y : x * y
 print(r(12, 4))
 ```
+
